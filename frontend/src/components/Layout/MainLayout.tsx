@@ -69,7 +69,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
             <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-4">
               <Link href="/feed" className="flex items-center space-x-3 group">
                 <div className="w-10 h-10 relative flex-shrink-0">
-                  <Image src="/logo.png" alt="Logo" width={40} height={40} className="rounded-lg object-contain" priority />
+                  <Image src="/favicon.svg" alt="Social Ai logo" width={40} height={40} className="rounded-lg object-contain" priority />
                 </div>
                 <span className="text-xl font-bold bg-gradient-to-r from-primary-600 to-primary-800 bg-clip-text text-transparent">Social Ai</span>
               </Link>
