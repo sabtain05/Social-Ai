@@ -24,7 +24,7 @@ const RegisterPage: React.FC = () => {
       <div className="max-w-md w-full space-y-6 bg-white p-8 rounded-2xl shadow-lg">
         <div className="text-center">
           <div className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto overflow-hidden bg-white shadow-sm">
-            <img src="/favicon.svg" alt="Social Ai logo" className="w-12 h-12 object-contain" />
+            <img src="/favicon.svg" alt="Social Ai logo" width={64} height={64} className="object-contain" />
           </div>
           <h2 className="mt-4 text-2xl font-bold text-gray-900">Join the Revolution!</h2>
           <p className="text-gray-600">Where AI meets creativity</p>
