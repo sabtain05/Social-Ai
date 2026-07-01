@@ -24,8 +24,13 @@ const LoginPage: React.FC = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-50 to-purple-50">
       <div className="max-w-md w-full space-y-8 bg-white p-8 rounded-2xl shadow-lg">
-        <div className="text-center"><div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-purple-600 rounded-2xl flex items-center justify-center mx-auto"><span className="text-white text-2xl font-bold">SA</span></div>
-        <h2 className="mt-4 text-2xl font-bold text-gray-900">Welcome Back!</h2><p className="text-gray-600">Login to your account</p></div>
+        <div className="text-center">
+          <div className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto overflow-hidden bg-white shadow-sm">
+            <Image src="/favicon.svg" alt="Social Ai logo" width={64} height={64} className="object-contain" />
+          </div>
+          <h2 className="mt-4 text-2xl font-bold text-gray-900">Welcome Back!</h2>
+          <p className="text-gray-600">Login to your account</p>
+        </div>
         <form onSubmit={handleSubmit} className="space-y-4">
           <div className="relative"><EnvelopeIcon className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" /><input type="email" value={email} onChange={(e) => setEmail(e.target.value)} className="w-full pl-10 pr-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500" placeholder="Email address" required /></div>
           <div className="relative"><LockClosedIcon className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" /><input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className="w-full pl-10 pr-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500" placeholder="Password" required /></div>

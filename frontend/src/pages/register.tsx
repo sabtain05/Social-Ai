@@ -22,8 +22,13 @@ const RegisterPage: React.FC = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-50 to-purple-50">
       <div className="max-w-md w-full space-y-6 bg-white p-8 rounded-2xl shadow-lg">
-        <div className="text-center"><div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-purple-600 rounded-2xl flex items-center justify-center mx-auto"><span className="text-white text-2xl font-bold">SA</span></div>
-        <h2 className="mt-4 text-2xl font-bold text-gray-900">Join the Revolution!</h2><p className="text-gray-600">Where AI meets creativity</p></div>
+        <div className="text-center">
+          <div className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto overflow-hidden bg-white shadow-sm">
+            <img src="/favicon.svg" alt="Social Ai logo" className="w-12 h-12 object-contain" />
+          </div>
+          <h2 className="mt-4 text-2xl font-bold text-gray-900">Join the Revolution!</h2>
+          <p className="text-gray-600">Where AI meets creativity</p>
+        </div>
         <form onSubmit={handleSubmit} className="space-y-3">
           <div className="relative"><UserIcon className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" /><input name="username" value={formData.username} onChange={(e) => setFormData({ ...formData, username: e.target.value })} className="w-full pl-10 pr-3 py-2 border border-gray-300 rounded-lg" placeholder="peter123" required /></div>
           <div className="relative"><IdentificationIcon className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" /><input name="full_name" value={formData.full_name} onChange={(e) => setFormData({ ...formData, full_name: e.target.value })} className="w-full pl-10 pr-3 py-2 border border-gray-300 rounded-lg" placeholder="Peter Theil" /></div>
