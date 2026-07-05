@@ -19,7 +19,6 @@
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Installation](#installation)
-- [Environment Variables](#environment-variables)
 - [Database Setup](#database-setup)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
@@ -183,90 +182,6 @@ mkdir -p src/components src/pages src/styles src/contexts src/services src/types
 
 ---
 
-## Environment Variables
-
-### Backend (.env)
-```env
-# Server Configuration
-PORT=8000
-NODE_ENV=development
-
-# Database Configuration
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=social_ai
-DB_USER=postgres
-DB_PASSWORD=your_password
-
-# JWT Configuration
-JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
-JWT_EXPIRE=7d
-
-# OpenAI Configuration
-OPENAI_API_KEY=your_openai_api_key_here
-
-# Frontend URL for CORS
-FRONTEND_URL=http://localhost:3500
-
-# File Upload Configuration
-MAX_FILE_SIZE=5242880
-ALLOWED_FILE_TYPES=image/jpeg,image/png,image/gif,image/webp
-```
-
-### Frontend (.env.local)
-```env
-NEXT_PUBLIC_API_URL=http://localhost:8000/api
-NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
-NEXT_PUBLIC_APP_URL=http://localhost:3500
-```
-
----
-
-## Database Setup
-
-### Create Database
-```bash
-# Login to PostgreSQL
-psql -U postgres
-
-# Create database
-CREATE DATABASE social_ai;
-
-# Connect to database
-\c social_ai;
-
-# Run schema
-\i database/schema.sql
-
-# Exit
-\q
-```
-
-### One-line Setup
-```bash
-psql -U postgres -c "CREATE DATABASE social_ai;"
-psql -U postgres -d social_ai -f database/schema.sql
-```
-
-### Database Schema Overview
-
-| Table | Description |
-|-------|-------------|
-| `users` | User accounts and profiles |
-| `posts` | User posts with AI improvement metadata |
-| `comments` | Post comments |
-| `likes` | Post likes |
-| `followers` | User follow relationships |
-| `friend_requests` | Friend request system |
-| `reels` | Video content |
-| `reel_likes` | Reel likes |
-| `reel_comments` | Reel comments |
-| `notifications` | User notifications |
-| `shares` | Share tracking |
-| `ai_logs` | AI interaction logs |
-| `institutions` | School/college database |
-
----
 
 ## Running the Application
 
@@ -570,9 +485,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Give a ⭐️ if this project helped you!
 
-### Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/social-ai&type=Date)](https://star-history.com/#YOUR_USERNAME/social-ai&Date)
-
 ---
 
 ## Acknowledgements
@@ -606,10 +518,10 @@ Give a ⭐️ if this project helped you!
 
 ## Contact
 
-**Developer:** [Your Name]  
-**Email:** your-email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)  
-**LinkedIn:** [Your Name](https://linkedin.com/in/yourusername)
+**Developer:** Sabtain Ali
+**Email:** sabtainalipk144@gmail.com  
+**GitHub:** @sabtain05 (https://github.com/sabtain05)  
+**LinkedIn:** Sabtain Ali (https://linkedin.com/in/justchill1345)
 
 ---
 
