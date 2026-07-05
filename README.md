@@ -431,7 +431,6 @@ Give a ⭐️ if this project helped you!
 ## Contact
 
 **Developer:** Sabtain Ali 
-
 **Email:** sabtainalipk144@gmail.com  
 **GitHub:** @sabtain05 (https://github.com/sabtain05)  
 **LinkedIn:** Sabtain Ali (https://linkedin.com/in/justchill1345)
