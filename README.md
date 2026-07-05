@@ -437,20 +437,5 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-## Quick Commands
-
-| Task | Command |
-|------|---------|
-| Start Backend | `cd backend && npm run dev` |
-| Start Frontend | `cd frontend && npm run dev` |
-| Install Backend | `cd backend && npm install` |
-| Install Frontend | `cd frontend && npm install` |
-| Setup Database | `psql -U postgres -d social_ai -f database/schema.sql` |
-| Create Database | `psql -U postgres -c "CREATE DATABASE social_ai;"` |
-| Clear Backend Cache | `cd backend && rm -rf node_modules package-lock.json && npm install` |
-| Clear Frontend Cache | `cd frontend && rm -rf node_modules package-lock.json && npm install` |
-
----
-
 
 **A Sabtain Ali production**
