@@ -19,9 +19,7 @@
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Installation](#installation)
-- [Database Setup](#database-setup)
 - [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -540,31 +538,5 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-## Deployment
 
-### Deploy Backend (Railway/Heroku)
-```bash
-# Railway
-railway login
-railway init
-railway up
-
-# Heroku
-heroku create social-ai-backend
-git push heroku main
-```
-
-### Deploy Frontend (Vercel/Netlify)
-```bash
-# Vercel
-vercel login
-vercel
-
-# Netlify
-netlify login
-netlify deploy
-```
-
----
-
-**Built by Sabtain Ali**
+**A Sabtain Ali production**
