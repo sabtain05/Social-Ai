@@ -385,11 +385,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: sabtainalipk144@gmail.com
 
 ### Report Issues
-- Open an issue on [GitHub Issues](https://github.com/YOUR_USERNAME/social-ai/issues)
+- Open an issue on [GitHub Issues](https://github.com/sabtain05/social-ai/issues)
 - Provide detailed steps to reproduce
 
 ### Feature Requests
-- Submit feature requests through [GitHub Discussions](https://github.com/YOUR_USERNAME/social-ai/discussions)
+- Submit feature requests through [GitHub Discussions](https://github.com/sabtain05/social-ai/discussions)
 
 ---
 
