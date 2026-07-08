@@ -19,10 +19,7 @@
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Database Setup](#database-setup)
 - [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -183,90 +180,6 @@ mkdir -p src/components src/pages src/styles src/contexts src/services src/types
 
 ---
 
-## Environment Variables
-
-### Backend (.env)
-```env
-# Server Configuration
-PORT=8000
-NODE_ENV=development
-
-# Database Configuration
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=social_ai
-DB_USER=postgres
-DB_PASSWORD=your_password
-
-# JWT Configuration
-JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
-JWT_EXPIRE=7d
-
-# OpenAI Configuration
-OPENAI_API_KEY=your_openai_api_key_here
-
-# Frontend URL for CORS
-FRONTEND_URL=http://localhost:3500
-
-# File Upload Configuration
-MAX_FILE_SIZE=5242880
-ALLOWED_FILE_TYPES=image/jpeg,image/png,image/gif,image/webp
-```
-
-### Frontend (.env.local)
-```env
-NEXT_PUBLIC_API_URL=http://localhost:8000/api
-NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
-NEXT_PUBLIC_APP_URL=http://localhost:3500
-```
-
----
-
-## Database Setup
-
-### Create Database
-```bash
-# Login to PostgreSQL
-psql -U postgres
-
-# Create database
-CREATE DATABASE social_ai;
-
-# Connect to database
-\c social_ai;
-
-# Run schema
-\i database/schema.sql
-
-# Exit
-\q
-```
-
-### One-line Setup
-```bash
-psql -U postgres -c "CREATE DATABASE social_ai;"
-psql -U postgres -d social_ai -f database/schema.sql
-```
-
-### Database Schema Overview
-
-| Table | Description |
-|-------|-------------|
-| `users` | User accounts and profiles |
-| `posts` | User posts with AI improvement metadata |
-| `comments` | Post comments |
-| `likes` | Post likes |
-| `followers` | User follow relationships |
-| `friend_requests` | Friend request system |
-| `reels` | Video content |
-| `reel_likes` | Reel likes |
-| `reel_comments` | Reel comments |
-| `notifications` | User notifications |
-| `shares` | Share tracking |
-| `ai_logs` | AI interaction logs |
-| `institutions` | School/college database |
-
----
 
 ## Running the Application
 
@@ -288,92 +201,6 @@ App runs at: `http://localhost:3500`
 1. Open browser: `http://localhost:3500`
 2. Create an account or login
 3. Start posting and using AI features!
-
----
-
-## API Endpoints
-
-### Authentication
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/auth/register` | Register new user |
-| POST | `/api/auth/login` | Login user |
-| GET | `/api/auth/me` | Get current user |
-
-### Users
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/users/:username` | Get user profile |
-| PUT | `/api/users/profile` | Update profile |
-| POST | `/api/users/profile-picture` | Upload profile picture |
-| GET | `/api/users/search` | Search users |
-| GET | `/api/users/:userId/followers` | Get followers |
-| GET | `/api/users/:userId/following` | Get following |
-| GET | `/api/users/:userId/friends` | Get friends |
-
-### Posts
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/posts` | Create post |
-| GET | `/api/posts/feed` | Get feed |
-| GET | `/api/posts/user/:userId` | Get user posts |
-| DELETE | `/api/posts/:postId` | Delete post |
-
-### Comments
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/posts/:postId/comments` | Add comment |
-| GET | `/api/posts/:postId/comments` | Get comments |
-| DELETE | `/api/posts/:postId/comments/:commentId` | Delete comment |
-
-### Likes
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/likes/:postId/toggle` | Like/unlike post |
-
-### Follow
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/follow/:userId/follow` | Follow user |
-| DELETE | `/api/follow/:userId/unfollow` | Unfollow user |
-
-### Friend Requests
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/friend-requests/send/:receiverId` | Send friend request |
-| POST | `/api/friend-requests/:requestId/accept` | Accept request |
-| POST | `/api/friend-requests/:requestId/reject` | Reject request |
-| GET | `/api/friend-requests/pending` | Get pending requests |
-
-### Reels
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/reels` | Create reel |
-| GET | `/api/reels/feed` | Get reel feed |
-| GET | `/api/reels/user/:userId` | Get user reels |
-| GET | `/api/reels/:reelId` | Get single reel |
-| POST | `/api/reels/:reelId/like` | Like/unlike reel |
-| POST | `/api/reels/:reelId/comments` | Add comment |
-| DELETE | `/api/reels/:reelId/comments/:commentId` | Delete comment |
-| DELETE | `/api/reels/:reelId` | Delete reel |
-
-### AI Assistant
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/api/ai/improve` | Generate AI suggestions |
-
-### Notifications
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/notifications` | Get notifications |
-| GET | `/api/notifications/unread-count` | Get unread count |
-| PUT | `/api/notifications/:notificationId/read` | Mark as read |
-| PUT | `/api/notifications/read-all` | Mark all as read |
-
-### Institutions
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/institutions/search` | Search institutions |
 
 ---
 
@@ -558,20 +385,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: sabtainalipk144@gmail.com
 
 ### Report Issues
-- Open an issue on [GitHub Issues](https://github.com/YOUR_USERNAME/social-ai/issues)
+- Open an issue on [GitHub Issues](https://github.com/sabtain05/social-ai/issues)
 - Provide detailed steps to reproduce
 
 ### Feature Requests
-- Submit feature requests through [GitHub Discussions](https://github.com/YOUR_USERNAME/social-ai/discussions)
+- Submit feature requests through [GitHub Discussions](https://github.com/sabtain05/social-ai/discussions)
 
 ---
 
 ## Show Your Support
 
 Give a ⭐️ if this project helped you!
-
-### Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/social-ai&type=Date)](https://star-history.com/#YOUR_USERNAME/social-ai&Date)
 
 ---
 
@@ -606,53 +430,15 @@ Give a ⭐️ if this project helped you!
 
 ## Contact
 
-**Developer:** [Your Name]  
-**Email:** your-email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)  
-**LinkedIn:** [Your Name](https://linkedin.com/in/yourusername)
+**Developer:** Sabtain Ali 
+
+**Email:** sabtainalipk144@gmail.com  
+
+**GitHub:** @sabtain05 (https://github.com/sabtain05)  
+
+**LinkedIn:** Sabtain Ali (https://linkedin.com/in/justchill1345)
 
 ---
 
-## Quick Commands
 
-| Task | Command |
-|------|---------|
-| Start Backend | `cd backend && npm run dev` |
-| Start Frontend | `cd frontend && npm run dev` |
-| Install Backend | `cd backend && npm install` |
-| Install Frontend | `cd frontend && npm install` |
-| Setup Database | `psql -U postgres -d social_ai -f database/schema.sql` |
-| Create Database | `psql -U postgres -c "CREATE DATABASE social_ai;"` |
-| Clear Backend Cache | `cd backend && rm -rf node_modules package-lock.json && npm install` |
-| Clear Frontend Cache | `cd frontend && rm -rf node_modules package-lock.json && npm install` |
-
----
-
-## Deployment
-
-### Deploy Backend (Railway/Heroku)
-```bash
-# Railway
-railway login
-railway init
-railway up
-
-# Heroku
-heroku create social-ai-backend
-git push heroku main
-```
-
-### Deploy Frontend (Vercel/Netlify)
-```bash
-# Vercel
-vercel login
-vercel
-
-# Netlify
-netlify login
-netlify deploy
-```
-
----
-
-**Built by Sabtain Ali**
+**A Sabtain Ali production**
