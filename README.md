@@ -410,24 +410,6 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-## Changelog
-
-### v1.0.0 (Current)
--  Initial release
--  User authentication with JWT
--  Post creation with AI improvement
--  Like, comment, share functionality
--  Follow system and friend requests
--  Reels with infinite scrolling
--  Profile management with picture upload
--  Notifications system
--  Responsive design with Tailwind CSS
--  Institution search for education fields
--  OpenAI GPT integration for AI content assistant
--  Three-column layout
-
----
-
 ## Contact
 
 **Developer:** Sabtain Ali 
