@@ -131,7 +131,7 @@ Turn an ordinary post into something amazing.
 
 ## Frontend
 
-⚛ Next.js 14
+- Next.js 14
 
 💙 TypeScript
 
