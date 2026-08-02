@@ -382,7 +382,7 @@ Every contribution is welcome.
 
 ---
 
-# ⭐ Show Some Love
+# Show Some Love
 
 If you like this project...
 
