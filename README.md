@@ -70,7 +70,7 @@ Turn an ordinary post into something amazing.
 ## Smart Post Creation
 
 - Rich Text Editor
-- 😊 Emojis
+- Emojis
 - 🖼 Images
 - 🎥 Videos
 - 📎 Attachments
