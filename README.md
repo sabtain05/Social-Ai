@@ -167,7 +167,7 @@ Turn an ordinary post into something amazing.
 
 - UUID
 
-📦 JSONB
+- JSONB
 
 ---
 
