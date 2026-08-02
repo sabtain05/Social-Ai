@@ -392,7 +392,7 @@ If you like this project...
 
 - **Share it**
 
-❤️ **Support it**
+- **Support it**
 
 ---
 
