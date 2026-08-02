@@ -354,9 +354,9 @@ OPENAI_API_KEY=your_api_key
 
 - Better engagement
 
-🎨 Beautiful UI
+- Beautiful UI
 
-⚡ Lightning fast
+- Lightning fast
 
 📱 Mobile friendly
 
