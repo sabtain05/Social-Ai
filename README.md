@@ -67,7 +67,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-## 📝 Smart Post Creation
+## Smart Post Creation
 
 - ✍ Rich Text Editor
 - 😊 Emojis
