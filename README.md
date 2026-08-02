@@ -55,7 +55,7 @@ Turn an ordinary post into something amazing.
 
   Casual tone
 
-✅ Viral style
+  Viral style
 
 ✅ Short version
 
