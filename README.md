@@ -15,7 +15,7 @@ Create • Improve • Connect • Share • Grow
 ![OpenAI](https://img.shields.io/badge/OpenAI-Powered-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
-⭐ **Star this repository if you like it!** ⭐
+⭐ **Star this repository if you like it!** 
 
 </div>
 
