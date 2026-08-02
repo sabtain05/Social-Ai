@@ -35,7 +35,7 @@ Developer
 
 Founder
 
-🎨 Creator
+Creator
 
 📈 Marketer
 
