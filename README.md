@@ -358,11 +358,11 @@ OPENAI_API_KEY=your_api_key
 
 - Lightning fast
 
-📱 Mobile friendly
+- Mobile friendly
 
-🔒 Secure
+- Secure
 
-🌍 Modern architecture
+- Modern architecture
 
 ---
 
