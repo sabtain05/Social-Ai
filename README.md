@@ -163,7 +163,7 @@ Turn an ordinary post into something amazing.
 
 ## Database
 
-🐘 PostgreSQL
+- PostgreSQL
 
 🆔 UUID
 
