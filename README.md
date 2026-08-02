@@ -129,7 +129,7 @@ Turn an ordinary post into something amazing.
 
 # Tech Stack
 
-## 🎨 Frontend
+## Frontend
 
 ⚛ Next.js 14
 
