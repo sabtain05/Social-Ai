@@ -33,7 +33,7 @@ Whether you're:
 
 Developer
 
-👨‍💼 Founder
+Founder
 
 🎨 Creator
 
