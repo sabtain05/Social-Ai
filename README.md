@@ -376,9 +376,9 @@ OPENAI_API_KEY=your_api_key
 
 - Push
 
-🎉 Open Pull Request
+- Open Pull Request
 
-Every contribution is welcome ❤️
+Every contribution is welcome.
 
 ---
 
