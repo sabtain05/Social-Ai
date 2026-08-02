@@ -155,9 +155,9 @@ Turn an ordinary post into something amazing.
 
 - Nodemailer
 
-📤 Multer
+- Multer
 
-🤖 OpenAI API
+- OpenAI API
 
 ---
 
