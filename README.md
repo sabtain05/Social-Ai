@@ -31,7 +31,7 @@ Social Ai helps users write **better**, **smarter**, **more engaging** posts wit
 
 Whether you're:
 
-👨‍💻 Developer
+Developer
 
 👨‍💼 Founder
 
