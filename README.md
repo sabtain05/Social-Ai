@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Social Ai 
+# Social Ai 
 
 ### ✨ **Post Smarter with AI** ✨
 
