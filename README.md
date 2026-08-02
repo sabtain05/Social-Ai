@@ -137,7 +137,7 @@ Turn an ordinary post into something amazing.
 
 - Tailwind CSS
 
-⚡ React Query
+- React Query
 
 📝 React Hook Form
 
