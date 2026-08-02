@@ -57,7 +57,7 @@ Turn an ordinary post into something amazing.
 
   Viral style
 
-✅ Short version
+  Short version
 
 ✅ Long version
 
