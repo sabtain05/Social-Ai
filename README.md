@@ -59,7 +59,7 @@ Turn an ordinary post into something amazing.
 
   Short version
 
-✅ Long version
+  Long version
 
 ✅ Better grammar
 
