@@ -372,7 +372,7 @@ OPENAI_API_KEY=your_api_key
 
 - Create Branch
 
-💻 Commit Changes
+- Commit Changes
 
 📤 Push
 
