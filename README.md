@@ -522,6 +522,4 @@ If you like this project...
 
 ### 🌍 **Social Ai — Post Smarter with AI** 🤖
 
-⭐ **Don't forget to Star the repository!** ⭐
-
 </div>
