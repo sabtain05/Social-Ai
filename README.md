@@ -53,7 +53,7 @@ Turn an ordinary post into something amazing.
 
   Professional tone
 
-✅ Casual tone
+  Casual tone
 
 ✅ Viral style
 
