@@ -117,7 +117,7 @@ Turn an ordinary post into something amazing.
 
 - Public
 
-👥 Friends Only
+- Friends Only
 
 🔐 Private
 
