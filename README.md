@@ -304,7 +304,7 @@ OPENAI_API_KEY=your_api_key
 
 - Input Validation
 
-🛑 XSS Protection
+- XSS Protection
 
 ---
 
