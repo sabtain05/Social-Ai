@@ -135,7 +135,7 @@ Turn an ordinary post into something amazing.
 
 - TypeScript
 
-🎨 Tailwind CSS
+- Tailwind CSS
 
 ⚡ React Query
 
