@@ -61,7 +61,7 @@ Turn an ordinary post into something amazing.
 
   Long version
 
-✅ Better grammar
+  Better grammar
 
 ✅ Better readability
 
