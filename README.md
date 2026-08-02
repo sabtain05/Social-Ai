@@ -85,7 +85,7 @@ Turn an ordinary post into something amazing.
 
 - Friend Requests
 
-💬 Comments
+- Comments
 
 👍 Likes
 
