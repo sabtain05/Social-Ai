@@ -153,7 +153,7 @@ Turn an ordinary post into something amazing.
 
 - JWT Authentication
 
-📧 Nodemailer
+- Nodemailer
 
 📤 Multer
 
