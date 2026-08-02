@@ -386,7 +386,7 @@ Every contribution is welcome.
 
 If you like this project...
 
-🌟 **Give it a Star**
+- Give it a Star
 
 🍴 **Fork it**
 
