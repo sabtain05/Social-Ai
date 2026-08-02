@@ -294,7 +294,7 @@ OPENAI_API_KEY=your_api_key
 
 - JWT Authentication
 
-🔑 Password Hashing
+- Password Hashing
 
 🛡 Helmet.js
 
