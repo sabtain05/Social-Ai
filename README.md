@@ -127,7 +127,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## 🎨 Frontend
 
