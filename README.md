@@ -390,7 +390,7 @@ If you like this project...
 
 - **Fork it**
 
-📢 **Share it**
+- **Share it**
 
 ❤️ **Support it**
 
