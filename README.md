@@ -346,7 +346,7 @@ OPENAI_API_KEY=your_api_key
 
 ---
 
-# ❤️ Why Social Ai?
+# Why Social Ai?
 
 🚀 Faster content creation
 
