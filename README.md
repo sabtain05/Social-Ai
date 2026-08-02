@@ -37,7 +37,7 @@ Founder
 
 Creator
 
-📈 Marketer
+Marketer
 
 🎓 Student
 
