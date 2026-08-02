@@ -139,7 +139,7 @@ Turn an ordinary post into something amazing.
 
 - React Query
 
-📝 React Hook Form
+- React Hook Form
 
 🎬 Framer Motion
 
