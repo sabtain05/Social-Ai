@@ -105,7 +105,7 @@ Turn an ordinary post into something amazing.
 
 - Comment
 
-📤 Share
+- Share
 
 📈 Infinite scrolling
 
