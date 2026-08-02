@@ -23,7 +23,7 @@ Create • Improve • Connect • Share • Grow
 
 # About Social Ai
 
-🚀 **Social Ai** is a next-generation AI-powered social media platform that combines traditional social networking with modern Artificial Intelligence.
+**Social Ai** is a next-generation AI-powered social media platform that combines traditional social networking with modern Artificial Intelligence.
 
 Instead of simply writing posts...
 
