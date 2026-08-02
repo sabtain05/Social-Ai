@@ -4,7 +4,7 @@
 
 ### **Post Smarter with AI** 
 
-💬 Create • 🤖 Improve • ❤️ Connect • Share • Grow
+💬 Create • 🤖 Improve • Connect • Share • Grow
 
 <img src="public/images/og-image.jpg" alt="Social Ai Banner" width="100%" />
 
