@@ -350,9 +350,9 @@ OPENAI_API_KEY=your_api_key
 
 - Faster content creation
 
-🤖 AI-assisted writing
+- AI-assisted writing
 
-📈 Better engagement
+- Better engagement
 
 🎨 Beautiful UI
 
