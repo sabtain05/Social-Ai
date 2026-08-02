@@ -302,7 +302,7 @@ OPENAI_API_KEY=your_api_key
 
 - Rate Limiting
 
-🧹 Input Validation
+- Input Validation
 
 🛑 XSS Protection
 
