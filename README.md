@@ -123,7 +123,7 @@ Turn an ordinary post into something amazing.
 
 - Block Users
 
-🛡 Report Users
+- Report Users
 
 ---
 
