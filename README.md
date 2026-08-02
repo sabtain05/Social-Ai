@@ -165,7 +165,7 @@ Turn an ordinary post into something amazing.
 
 - PostgreSQL
 
-🆔 UUID
+- UUID
 
 📦 JSONB
 
