@@ -93,7 +93,7 @@ Turn an ordinary post into something amazing.
 
 - Reposts
 
-🔔 Notifications
+- Notifications
 
 ---
 
