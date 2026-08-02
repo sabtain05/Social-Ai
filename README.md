@@ -400,8 +400,4 @@ If you like this project...
 
 # 🚀✨ Thank You ✨🚀
 
-### ❤️ Built with Passion • Powered by AI • Designed for Creators ❤️
-
-### 🌍 **Social Ai — Post Smarter with AI** 🤖
-
 </div>
