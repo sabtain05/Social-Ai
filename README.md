@@ -133,7 +133,7 @@ Turn an ordinary post into something amazing.
 
 - Next.js 14
 
-💙 TypeScript
+- TypeScript
 
 🎨 Tailwind CSS
 
