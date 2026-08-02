@@ -79,7 +79,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-## 👥 Social Network
+## Social Network
 
 ❤️ Follow Users
 
