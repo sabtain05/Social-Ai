@@ -73,7 +73,7 @@ Turn an ordinary post into something amazing.
 - Emojis
 - Images
 - Videos
-- 📎 Attachments
+- Attachments
 - 🔖 Hashtags
 - 📍 Location
 
