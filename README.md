@@ -227,7 +227,7 @@ npm run dev
 ## 4️⃣ Open Browser
 
 ```
-🌐 http://localhost:3500
+  http://localhost:3500
 ```
 
 ---
