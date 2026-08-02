@@ -51,7 +51,7 @@ Social Ai helps you create content that people actually enjoy reading.
 
 Turn an ordinary post into something amazing.
 
-✅ Professional tone
+  Professional tone
 
 ✅ Casual tone
 
