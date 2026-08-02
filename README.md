@@ -113,7 +113,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-## 🔒 Privacy
+## Privacy
 
 🌎 Public
 
