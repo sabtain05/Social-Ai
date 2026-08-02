@@ -63,7 +63,7 @@ Turn an ordinary post into something amazing.
 
   Better grammar
 
-✅ Better readability
+  Better readability
 
 ---
 
