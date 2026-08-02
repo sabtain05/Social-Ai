@@ -87,7 +87,7 @@ Turn an ordinary post into something amazing.
 
 - Comments
 
-👍 Likes
+- Likes
 
 🔁 Shares
 
