@@ -149,7 +149,7 @@ Turn an ordinary post into something amazing.
 
 - Node.js
 
-🚀 Express.js
+- Express.js
 
 🔐 JWT Authentication
 
