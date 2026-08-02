@@ -121,7 +121,7 @@ Turn an ordinary post into something amazing.
 
 - Private
 
-🚫 Block Users
+- Block Users
 
 🛡 Report Users
 
