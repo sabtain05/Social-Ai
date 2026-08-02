@@ -103,7 +103,7 @@ Turn an ordinary post into something amazing.
 
 - Like
 
-💬 Comment
+- Comment
 
 📤 Share
 
