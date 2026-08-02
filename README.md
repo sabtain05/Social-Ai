@@ -27,7 +27,7 @@ Create • Improve • Connect • Share • Grow
 
 Instead of simply writing posts...
 
-✨ Social Ai helps users write **better**, **smarter**, **more engaging** posts with AI.
+Social Ai helps users write **better**, **smarter**, **more engaging** posts with AI.
 
 Whether you're:
 
