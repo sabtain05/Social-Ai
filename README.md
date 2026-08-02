@@ -250,7 +250,7 @@ OPENAI_API_KEY=your_api_key
 
 # REST API
 
-| 🚀 Method | 📍 Endpoint | 📖 Description |
+| Method | Endpoint | Description |
 |------------|-------------|----------------|
 | POST | /auth/register | Register |
 | POST | /auth/login | Login |
