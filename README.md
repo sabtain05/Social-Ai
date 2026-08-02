@@ -39,7 +39,7 @@ Creator
 
 Marketer
 
-🎓 Student
+Student
 
 Social Ai helps you create content that people actually enjoy reading.
 
