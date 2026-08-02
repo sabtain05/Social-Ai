@@ -72,7 +72,7 @@ Turn an ordinary post into something amazing.
 - Rich Text Editor
 - Emojis
 - Images
-- 🎥 Videos
+- Videos
 - 📎 Attachments
 - 🔖 Hashtags
 - 📍 Location
