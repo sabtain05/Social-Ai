@@ -6,8 +6,6 @@
 
 Create • Improve • Connect • Share • Grow
 
-<img src="public/images/og-image.jpg" alt="Social Ai Banner" width="100%" />
-
 <br>
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
