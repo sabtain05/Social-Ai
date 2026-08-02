@@ -151,7 +151,7 @@ Turn an ordinary post into something amazing.
 
 - Express.js
 
-🔐 JWT Authentication
+- JWT Authentication
 
 📧 Nodemailer
 
