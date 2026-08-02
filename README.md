@@ -75,7 +75,7 @@ Turn an ordinary post into something amazing.
 - Videos
 - Attachments
 - Hashtags
-- 📍 Location
+- Location
 
 ---
 
