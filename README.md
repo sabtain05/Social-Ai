@@ -83,7 +83,7 @@ Turn an ordinary post into something amazing.
 
 - Follow Users
 
-👥 Friend Requests
+- Friend Requests
 
 💬 Comments
 
