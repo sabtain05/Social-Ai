@@ -97,7 +97,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-## 🎥 Reels
+## Reels
 
 🎬 Upload reels
 
