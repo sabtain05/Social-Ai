@@ -147,7 +147,7 @@ Turn an ordinary post into something amazing.
 
 ## Backend
 
-🟢 Node.js
+- Node.js
 
 🚀 Express.js
 
