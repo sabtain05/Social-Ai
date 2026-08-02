@@ -89,7 +89,7 @@ Turn an ordinary post into something amazing.
 
 - Likes
 
-🔁 Shares
+- Shares
 
 📢 Reposts
 
