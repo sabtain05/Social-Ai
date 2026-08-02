@@ -91,7 +91,7 @@ Turn an ordinary post into something amazing.
 
 - Shares
 
-📢 Reposts
+- Reposts
 
 🔔 Notifications
 
