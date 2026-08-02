@@ -49,7 +49,7 @@ Social Ai helps you create content that people actually enjoy reading.
 
 ## AI Content Assistant
 
-✨ Turn an ordinary post into something amazing.
+Turn an ordinary post into something amazing.
 
 ✅ Professional tone
 
