@@ -141,7 +141,7 @@ Turn an ordinary post into something amazing.
 
 - React Hook Form
 
-🎬 Framer Motion
+- Framer Motion
 
 ---
 
