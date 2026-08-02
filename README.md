@@ -174,7 +174,7 @@ Turn an ordinary post into something amazing.
 # Architecture
 
 ```
-             🌐 Browser
+               Browser
                   │
                   │
           Next.js Frontend
@@ -190,7 +190,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## 1️⃣ Clone Repository
 
