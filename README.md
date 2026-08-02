@@ -171,7 +171,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-# 🏗 Architecture
+# Architecture
 
 ```
              🌐 Browser
