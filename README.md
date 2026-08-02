@@ -368,9 +368,9 @@ OPENAI_API_KEY=your_api_key
 
 # Contributing
 
-🍴 Fork
+- Fork
 
-🌿 Create Branch
+- Create Branch
 
 💻 Commit Changes
 
