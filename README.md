@@ -81,7 +81,7 @@ Turn an ordinary post into something amazing.
 
 ## Social Network
 
-❤️ Follow Users
+- Follow Users
 
 👥 Friend Requests
 
