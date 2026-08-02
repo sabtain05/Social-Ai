@@ -101,7 +101,7 @@ Turn an ordinary post into something amazing.
 
 - Upload reels
 
-❤️ Like
+- Like
 
 💬 Comment
 
