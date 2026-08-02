@@ -107,9 +107,9 @@ Turn an ordinary post into something amazing.
 
 - Share
 
-📈 Infinite scrolling
+- Infinite scrolling
 
-🎵 Smooth autoplay
+- Smooth autoplay
 
 ---
 
