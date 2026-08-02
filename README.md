@@ -248,7 +248,7 @@ OPENAI_API_KEY=your_api_key
 
 ---
 
-# 📡 REST API
+# REST API
 
 | 🚀 Method | 📍 Endpoint | 📖 Description |
 |------------|-------------|----------------|
