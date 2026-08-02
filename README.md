@@ -119,7 +119,7 @@ Turn an ordinary post into something amazing.
 
 - Friends Only
 
-🔐 Private
+- Private
 
 🚫 Block Users
 
