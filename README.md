@@ -2,7 +2,7 @@
 
 # Social Ai 
 
-### ✨ **Post Smarter with AI** ✨
+### ✨ **Post Smarter with AI** 
 
 💬 Create • 🤖 Improve • ❤️ Connect • 🎥 Share • 🚀 Grow
 
