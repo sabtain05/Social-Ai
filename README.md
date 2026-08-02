@@ -145,7 +145,7 @@ Turn an ordinary post into something amazing.
 
 ---
 
-## ⚙ Backend
+## Backend
 
 🟢 Node.js
 
