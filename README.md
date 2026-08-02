@@ -99,7 +99,7 @@ Turn an ordinary post into something amazing.
 
 ## Reels
 
-🎬 Upload reels
+- Upload reels
 
 ❤️ Like
 
