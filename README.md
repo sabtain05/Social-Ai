@@ -190,56 +190,6 @@ Turn an ordinary post into something amazing.
 
 ---
 
-# 📂 Project Structure
-
-```
-📦 Social-Ai
-
-┣ 📂 backend
-
-┃ ┣ 📂 controllers
-
-┃ ┣ 📂 routes
-
-┃ ┣ 📂 middleware
-
-┃ ┣ 📂 services
-
-┃ ┣ 📂 models
-
-┃ ┗ 📂 uploads
-
-┃
-
-┣ 📂 frontend
-
-┃ ┣ 📂 components
-
-┃ ┣ 📂 pages
-
-┃ ┣ 📂 hooks
-
-┃ ┣ 📂 utils
-
-┃ ┣ 📂 styles
-
-┃ ┗ 📂 services
-
-┃
-
-┣ 📂 database
-
-┃ ┣ schema.sql
-
-┃ ┗ seed.sql
-
-┃
-
-┗ README.md
-```
-
----
-
 # 🚀 Installation
 
 ## 1️⃣ Clone Repository
