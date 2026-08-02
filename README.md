@@ -232,7 +232,7 @@ npm run dev
 
 ---
 
-# ⚙ Environment Variables
+# Environment Variables
 
 ```env
 PORT=8000
