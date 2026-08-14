@@ -338,8 +338,6 @@ Mobile App
 
 Push Notifications
 
-AI Image Generation
-
 
 ---
 
