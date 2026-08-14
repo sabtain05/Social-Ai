@@ -342,7 +342,6 @@ AI Image Generation
 
 AI Video Generation
 
-AI Chatbot
 
 ---
 
