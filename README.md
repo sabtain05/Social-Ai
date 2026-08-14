@@ -335,10 +335,6 @@ Voice Calls
 Video Calls
 
 Mobile App
-
-Push Notifications
-
-
 ---
 
 # Why Social Ai?
