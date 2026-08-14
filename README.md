@@ -331,10 +331,6 @@ Stories
 Live Streaming
 
 Voice Calls
-
-Video Calls
-
-Mobile App
 ---
 
 # Why Social Ai?
