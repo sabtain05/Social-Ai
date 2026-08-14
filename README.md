@@ -334,7 +334,7 @@ OPENAI_API_KEY=your_api_key
 
 ⬜ Video Calls
 
-⬜ Mobile App
+Mobile App
 
 Push Notifications
 
