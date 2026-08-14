@@ -326,7 +326,7 @@ OPENAI_API_KEY=your_api_key
 
 ⬜ Direct Messages
 
-⬜ Stories
+Stories
 
 Live Streaming
 
