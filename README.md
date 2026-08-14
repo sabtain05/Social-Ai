@@ -336,13 +336,13 @@ OPENAI_API_KEY=your_api_key
 
 ⬜ Mobile App
 
-⬜ Push Notifications
+Push Notifications
 
-⬜ AI Image Generation
+AI Image Generation
 
-⬜ AI Video Generation
+AI Video Generation
 
-⬜ AI Chatbot
+AI Chatbot
 
 ---
 
