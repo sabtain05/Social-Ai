@@ -340,8 +340,6 @@ Push Notifications
 
 AI Image Generation
 
-AI Video Generation
-
 
 ---
 
